@@ -1,7 +1,8 @@
-# GitHub Docs <!-- omit in toc -->
-[![Build GitHub Docs On Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/?repo=github)
+# GitHub Docs [![Build GitHub Docs On Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/?repo=github)
 
 This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
+
+**Important:** Before making significant contributions, please review our [Style Guide](https://docs.github.com/en/contributing/writing-on-github/style-guide) to ensure consistency and quality across the documentation.
 
 GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo.
 
